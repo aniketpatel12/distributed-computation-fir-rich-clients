@@ -38,10 +38,10 @@ def compute_cosine_similarity(embedding1, embedding2):
 # Streamlit App Layout
 st.title("Face Recognition")
 
-st.write(
-    "This project is dedicated on research regarding the Distributed "
-    "Machine Computation for Facial Image Recognition for Rich Clients. "
-)
+# st.write(
+#     "This project is dedicated on research regarding the Distributed "
+#     "Machine Computation for Facial Image Recognition for Rich Clients. "
+# )
 
 st.write(
     "Upload two images to compute their cosine similarity using a "
